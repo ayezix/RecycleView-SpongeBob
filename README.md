@@ -12,7 +12,7 @@ An Android application that displays a list of SpongeBob SquarePants characters 
 
 ## Screenshots
 
-[Add screenshots of your app here]
+![image](https://github.com/user-attachments/assets/852e9b15-a5a8-4558-9ea5-679455142e2c)
 
 ## Requirements
 
