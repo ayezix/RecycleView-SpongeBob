@@ -14,6 +14,9 @@ An Android application that displays a list of SpongeBob SquarePants characters 
 
 ![image](https://github.com/user-attachments/assets/852e9b15-a5a8-4558-9ea5-679455142e2c)
 
+This project was done by Nimrod Aharon, Yehuda Ekoz and Ran Azulay
+
+
 ## Requirements
 
 - Android Studio Arctic Fox or later
@@ -61,9 +64,7 @@ implementation 'androidx.recyclerview:recyclerview:1.3.2'
 implementation 'androidx.cardview:cardview:1.0.0'
 ```
 
-## License
 
-[Add your license information here]
 
 ## Contributing
 
