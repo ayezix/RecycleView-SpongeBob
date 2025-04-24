@@ -24,7 +24,7 @@ An Android application that displays a list of SpongeBob SquarePants characters 
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/ayezix/RecycleView-Spongebob-Squarepants.git
+git clone git clone [https://github.com/ayezix/RecycleView-Spongebob-Squarepants](https://github.com/ayezix/RecycleView-SpongeBob).git
 ```
 
 2. Open the project in Android Studio
