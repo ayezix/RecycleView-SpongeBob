@@ -1,4 +1,5 @@
 # SpongeBob SquarePants Character Viewer
+Created by : Ran Azulay Nimrod Aharon Yehuda Ekoz Inbal Bolshinsky
 
 An Android application that displays a list of SpongeBob SquarePants characters using RecyclerView. The app features a search functionality and interactive character cards.
 
